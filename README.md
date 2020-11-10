@@ -4,4 +4,4 @@ ematical morphology. Two different approaches are discussed- one is utilizing na
 ing of amino acids. A metric is defined in order to cluster the pair sequences based on the similarity index and cluster the sequences into three classes - High-
 est, Moderate and Lowest that best suitted for 66 drosophila olfactory receptors protein sequences. OR83b is the distinguished olfactory receptor expressed in
 divergent insect population. Our investigation reconfirms this quantitatively. 
-Keywords: Amino Acids, Inma, Suprema, Dilation distance, Erosion Distance, Distance Matrix, Similarity Index, Phylogenetic tree.
+Keywords: Amino Acids, Infima, Suprema, Dilation distance, Erosion Distance, Distance Matrix, Similarity Index, Phylogenetic tree.
